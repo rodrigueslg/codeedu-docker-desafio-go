@@ -1,3 +1,5 @@
+**Docker Hub Image**: https://hub.docker.com/r/rodrigueslg/codeeducation
+
 Desafio Go
 
 Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
