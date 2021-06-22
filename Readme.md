@@ -1,11 +1,15 @@
 **Docker Hub Image**: https://hub.docker.com/r/rodrigueslg/codeeducation
 
+**Executar a imagem: `docker run rodrigueslg/codeeducation`**
+
+----
+
 Desafio Go
 
 Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
 Você terá que publicar uma imagem no docker hub. Quando executarmos:
 
-**docker run rodrigueslg/codeeducation**
+`docker run rodrigueslg/codeeducation`
 
 Temos que ter o seguinte resultado: Code.education Rocks!
 
