@@ -1,6 +1,6 @@
 FROM golang:1.16-alpine AS builder
 WORKDIR /usr/src/app
-COPY . .
+COPY ./app/ .
 RUN go build hello-world.go
 
 FROM alpine:latest
